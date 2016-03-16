@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Rails wrapper for picturefill.}
   spec.description   = %q{Rails wrapper for picturefill.}
-  spec.homepage      = "httpdateps://github.com/nnluukhtn/picturefill_rails"
+  spec.homepage      = "https://github.com/nnluukhtn/picturefill_rails"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir        = "exe"
